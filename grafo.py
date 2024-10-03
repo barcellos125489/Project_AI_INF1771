@@ -38,7 +38,7 @@ def matrix_to_node(matrix: list) -> list:
         new_matrix.append(new_line)
 
 
-    return
+    return new_matrix
 
 def get_grafo(node_matrix : list) -> dict:
     '''
